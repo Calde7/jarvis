@@ -32,6 +32,11 @@
     5eab7c9de729   jarvis:latest     "java -jar /jarvis.j…"
     8dec0229291f   postgres:latest   "docker-entrypoint.s…"
 
+### Public Docker Image
+```
+docker pull lefranco/jarvis
+```
+
 # Postman Collections
 
 ``` src/main/resources/Jarvis.postman_collection.json ```
